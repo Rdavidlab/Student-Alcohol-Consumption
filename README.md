@@ -1,2 +1,2 @@
 # Student-Alcohol-Consumption
-analyzing failure rates and alcohol consumption
+A research into failure rates and alcohol consumption
